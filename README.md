@@ -4,8 +4,6 @@
 
 Realizado como parte del módulo UF1846.
 
-**(Opcional: ¡Añade aquí una captura de pantalla!)**
-*Puedes hacer una captura de las 4 cartas en tu navegador y guardarla como `screenshot.png` en la carpeta del proyecto. Luego, descomenta la línea de abajo:*
 ## ✨ Características Principales
 
 *   Consulta a la [PokeAPI](https://pokeapi.co/api/v2/pokemon/) para obtener datos de Pokémon (limitado a los primeros 151 IDs).
